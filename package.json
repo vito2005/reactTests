@@ -21,5 +21,22 @@
     "not dead",
     "not ie <= 11",
     "not op_mini all"
-  ]
+  ],
+  "description": "This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).",
+  "main": "index.js",
+  "devDependencies": {},
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/vito2005/reactTests.git"
+  },
+  "keywords": [
+    "react",
+    "tests"
+  ],
+  "author": "alexbuki",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/vito2005/reactTests/issues"
+  },
+  "homepage": "https://github.com/vito2005/reactTests#readme"
 }
